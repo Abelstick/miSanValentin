@@ -47,10 +47,10 @@ function App() {
 
     // Carrusel de imágenes
     const images = [
-        "/src/assets/foto.jpg",
-        "/src/assets/foto2.jpg",
-        "/src/assets/foto3.jpg",
-        "/src/assets/foto4.jpg",
+        "/images/foto.jpg",
+        "/images/foto2.jpg",
+        "/images/foto3.jpg",
+        "/images/foto4.jpg",
     ];
 
     // Verificar que todas las imágenes estén cargadas
